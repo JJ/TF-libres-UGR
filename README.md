@@ -4,21 +4,22 @@ Repositorio con enlaces a los trabajos fin de grado, máster, carrera o tesis cu
 
 ## Trabajos fin de grado/carrera
 
-| Alumna/o | Tutor/a | Enlace al repo | Grado | Enlace al código (si diferente) |
+| Alumna/o | Tutora/o | Enlace al repo | Grado | Enlace al código (si diferente) |
 | -------- | -------- | -------------- | ------| --------------------------------|
 | [Alejandro García Montoro](https://github.com/agarciamontoro) | Alfonso Romero Sarabia y [Pablo Galindo Salgado](https://github.com/pablogsal) | [General Relativity Raytracer](https://github.com/agarciamontoro/TFG) | Doble Grado en Ingeniería Informática y Matemáticas | [kerrpy](https://github.com/kerrpy) |
 
 ## Trabajos fin de máster
 
-| Alumna/o | Tutor/a | Enlace al repo | Máster | Enlace al código (si diferente) |
-| -------- | ------- | -------------- | -------| --------------------------------|
+| Alumna/o | Tutora/o | Enlace al repo | Máster | Enlace al código (si diferente) |
+| -------- | -------- | -------------- | -------| --------------------------------|
 
 ## Tesis doctorales
 
-| Alumna/o | Tutor/a | Enlace al repo | Programa doctorado | Enlace al código (si diferente) |
-| -------- | ------- | -------------- | ------------------ | ------------------------------- |
+| Alumna/o | Tutora/o | Enlace al repo | Programa doctorado | Enlace al código (si diferente) |
+| -------- | -------- | -------------- | -------------------| --------------------------------|
+|[Pablo García Sánchez](http://github.com/fergunet)|[Juan Julián Merelo Guervós](http://github.com/JJ), [Jesús González](https://github.com/jesusatc/) y Alberto Prieto|[Service Oriented Architecture for Adaptive Evolutionary Algorithms: Implementation and Applications](https://github.com/fergunet/tesis)|Programa de Doctorado en Ingeniería de Computadores y Redes (ATC)|[OsgiLiath](http://github.com/fergunet/osgiliath)|
 
 ## Otros trabajos (de asignatura, de investigación) 
 
-| Alumna/o | Tutor/a | Enlace al repo | Asignatura/proyecto | Enlace al código (si diferente) |
-| -------- | ------- | -------------- | --------------------| --------------------------------|
+| Alumna/o | Tutora/o | Enlace al repo | Asignatura/proyecto | Enlace al código (si diferente) |
+| -------- | -------- | -------------- | --------------------| --------------------------------|
