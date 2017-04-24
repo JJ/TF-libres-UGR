@@ -11,9 +11,9 @@ Repositorio con enlaces a los trabajos fin de grado, máster, carrera o tesis cu
 ## Trabajos fin de máster
 
 | Alumna/o | Tutora/o | Enlace al repo | Máster | Enlace al código (si diferente) |
-| -------- | -------- | -------------- | ------| --------------------------------|
+| -------- | -------- | -------------- | -------| --------------------------------|
 
 ## Tesis doctorales
 
 | Alumna/o | Tutora/o | Enlace al repo | Programa doctorado | Enlace al código (si diferente) |
-| -------- | -------- | -------------- | ------| --------------------------------|
+| -------- | -------- | -------------- | -------------------| --------------------------------|
