@@ -8,6 +8,7 @@ Repositorio con enlaces a los trabajos fin de grado, máster, carrera o tesis cu
 | -------- | -------- | -------------- | ------| --------------------------------|
 | [Alejandro García Montoro](https://github.com/agarciamontoro) | Alfonso Romero Sarabia y [Pablo Galindo Salgado](https://github.com/pablogsal) | [General Relativity Raytracer](https://github.com/agarciamontoro/TFG) | Doble Grado en Ingeniería Informática y Matemáticas | [kerrpy](https://github.com/kerrpy) |
 | [David Gasquez Arcos](https://github.com/davidgasquez) | Francisco Herrera Triguero | [Airbnb Kaggle](https://github.com/davidgasquez/kaggle-airbnb) | Grado en Ingeniería Informática | |
+| [David Charte Luque](https://github.com/fdavidcl) | Francisco Herrera Triguero | [Deep Learning para reducción de la dimensionalidad](https://github.com/fdavidcl/tfg) | Doble Grado en Ingeniería Informática y Matemáticas | |
 
 ## Trabajos fin de máster
 
