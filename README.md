@@ -10,6 +10,7 @@ Repositorio con enlaces a los trabajos fin de grado, máster, carrera o tesis cu
 | [David Gasquez Arcos](https://github.com/davidgasquez) | Francisco Herrera Triguero | [Airbnb Kaggle](https://github.com/davidgasquez/kaggle-airbnb) | Grado en Ingeniería Informática ||
 | [David Charte Luque](https://github.com/fdavidcl) | Francisco Herrera Triguero | [Deep Learning para reducción de la dimensionalidad](https://github.com/fdavidcl/tfg) | Doble Grado en Ingeniería Informática y Matemáticas ||
 | [Juan Miguel Boyero Corral](https://github.com/Amab) | [Antonio Cañas Vargas](https://github.com/acanas) | [SWADroid: Android client for e-learning platform SWAD](https://github.com/Amab/SWADroid) | Ingeniería Informática ||
+| [Alejandro Alcalde Barros](https://github.com/elbaulp) | Salvador García López | [NLP: Spanish Dependency Parsing](https://github.com/elbaulp/NLP_Dependency_Parsing) | Grado Ingeniería Informática ||
 
 ## Trabajos fin de máster
 
