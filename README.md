@@ -11,7 +11,8 @@ Repositorio con enlaces a los trabajos fin de grado, máster, carrera o tesis cu
 | [David Charte Luque](https://github.com/fdavidcl) | Francisco Herrera Triguero | [Deep Learning para reducción de la dimensionalidad](https://github.com/fdavidcl/tfg) | Doble Grado en Ingeniería Informática y Matemáticas ||
 | [Juan Miguel Boyero Corral](https://github.com/Amab) | [Antonio Cañas Vargas](https://github.com/acanas) | [SWADroid: Android client for e-learning platform SWAD](https://github.com/Amab/SWADroid) | Ingeniería Informática ||
 | [Alejandro Alcalde Barros](https://github.com/elbaulp) | Salvador García López | [NLP: Spanish Dependency Parsing](https://github.com/elbaulp/NLP_Dependency_Parsing) | Grado Ingeniería Informática ||
-| [Juan A. Fernández Sánchez](https://github.com/juanaFernandez) | [JJ Merelo](https://github.com/JJ) | [SMS: A processes accelerator for educational centers.](https://github.com/ButterFlyDevs/StudentsManagementSystem) | Grado Ingeniería Informática | ||
+| [Juan A. Fernández Sánchez](https://github.com/juanaFernandez) | [JJ Merelo](https://github.com/JJ) | [SMS: A processes accelerator for educational centers.](https://github.com/ButterFlyDevs/StudentsManagementSystem) | Grado Ingeniería Informática ||
+| [Alejandro Castilla Quesada](https://github.com/alejandrocq) | Manuel Noguera García | [CloudFit for Wear: Android application to monitor physical activity with an Android Wear device and synchronize data with CloudFit platform](https://github.com/alejandrocq/cloudfit-for-wear) | Grado en Ingeniería de Tecnologías de Telecomunicación | ||
 
 ## Trabajos fin de máster
 
