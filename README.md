@@ -14,6 +14,7 @@ Repositorio con enlaces a los trabajos fin de grado, máster, carrera o tesis cu
 | [Juan A. Fernández Sánchez](https://github.com/juanaFernandez) | [JJ Merelo](https://github.com/JJ) | [SMS: A processes accelerator for educational centers.](https://github.com/ButterFlyDevs/StudentsManagementSystem) | Grado Ingeniería Informática ||
 | [Alejandro Castilla Quesada](https://github.com/alejandrocq) | Manuel Noguera García | [CloudFit for Wear: Android application to monitor physical activity with an Android Wear device and synchronize data with CloudFit platform](https://github.com/alejandrocq/cloudfit-for-wear) | Grado en Ingeniería de Tecnologías de Telecomunicación | |
 | [Germán Martínez Maldonado](https://github.com/germaaan) | [JJ Merelo](https://github.com/JJ) | [Un portal de transparencia para datos libres](https://github.com/germaaan/TFG) | Grado en Ingeniería Informática | [ugr-transparente-servidor](https://github.com/oslugr/ugr-transparente-servidor) ||
+| [Ernesto Serrano Collado](https://github.com/erseco) | [Sergio Alonso Burgos](https://github.com/zerjillo) | [Análisis de plataforma de recursos de apoyo a la docencia Prado2](https://github.com/erseco/ugr_tfg) | Grado en Ingeniería Informática ||
 
 ## Trabajos fin de máster
 
