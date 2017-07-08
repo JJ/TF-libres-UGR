@@ -15,12 +15,14 @@ Repositorio con enlaces a los trabajos fin de grado, máster, carrera o tesis cu
 | [Alejandro Castilla Quesada](https://github.com/alejandrocq) | Manuel Noguera García | [CloudFit for Wear: Android application to monitor physical activity with an Android Wear device and synchronize data with CloudFit platform](https://github.com/alejandrocq/cloudfit-for-wear) | Grado en Ingeniería de Tecnologías de Telecomunicación | |
 | [Germán Martínez Maldonado](https://github.com/germaaan) | [JJ Merelo](https://github.com/JJ) | [Un portal de transparencia para datos libres](https://github.com/germaaan/TFG) | Grado en Ingeniería Informática | [ugr-transparente-servidor](https://github.com/oslugr/ugr-transparente-servidor) ||
 | [Ernesto Serrano Collado](https://github.com/erseco) | [Sergio Alonso Burgos](https://github.com/zerjillo) | [Análisis de plataforma de recursos de apoyo a la docencia Prado2](https://github.com/erseco/ugr_tfg) | Grado en Ingeniería Informática ||
+| [Antonio Álvarez Caballero](https://github.com/analca3) | [JJ Merelo](https://github.com/JJ) | [Estudio de optimización con incertidumbre en juegos de estrategia](https://github.com/analca3/TFG) | Doble Grado en Ingeniería Informática y Matemáticas | |
 
 ## Trabajos fin de máster
 
 | Alumna/o | Tutora/o | Enlace al repo | Máster | Enlace al código (si diferente) |
 | -------- | -------- | -------------- | -------| --------------------------------|
 | [Germán Martínez Maldonado](https://github.com/germaaan) | [JJ Merelo](https://github.com/JJ) | [Datos Abiertos en la Universidad](https://github.com/germaaan/ProyectoDatosAbiertos) | Máster Universitario en Ingeniería Informática | ||
+| [Antonio Álvarez Caballero](https://github.com/analca3) | [JJ Merelo](https://github.com/JJ) | [Predicción de resultados de partidas en juegos de estrategia en tiempo real](https://github.com/analca3/StarCraft-winner-prediction) | Máster Universitario en Ciencia de Datos e Ingeniería de Computadores | |
 
 ## Tesis doctorales
 
@@ -32,4 +34,4 @@ Repositorio con enlaces a los trabajos fin de grado, máster, carrera o tesis cu
 
 | Alumna/o | Tutora/o | Enlace al repo | Asignatura/proyecto | Enlace al código (si diferente) |
 | -------- | -------- | -------------- | --------------------| --------------------------------|
-| | | || | | 
+| | | || | |
