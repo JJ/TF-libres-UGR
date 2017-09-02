@@ -16,6 +16,7 @@ Repositorio con enlaces a los trabajos fin de grado, máster, carrera o tesis cu
 | [Germán Martínez Maldonado](https://github.com/germaaan) | [JJ Merelo](https://github.com/JJ) | [Un portal de transparencia para datos libres](https://github.com/germaaan/TFG) | Grado en Ingeniería Informática | [ugr-transparente-servidor](https://github.com/oslugr/ugr-transparente-servidor) ||
 | [Ernesto Serrano Collado](https://github.com/erseco) | [Sergio Alonso Burgos](https://github.com/zerjillo) | [Análisis de plataforma de recursos de apoyo a la docencia Prado2](https://github.com/erseco/ugr_tfg) | Grado en Ingeniería Informática ||
 | [Antonio Álvarez Caballero](https://github.com/analca3) | [JJ Merelo](https://github.com/JJ) | [Estudio de optimización con incertidumbre en juegos de estrategia](https://github.com/analca3/TFG) | Doble Grado en Ingeniería Informática y Matemáticas | |
+| [Luis Gil Guijarro](https://github.com/LuisGi93/) | [JJ Merelo](https://github.com/JJ) | [Pradobot: bot de Telegram para Moodle](https://github.com/LuisGi93/pradobot) | Grado en Ingeniería Informática | |
 
 ## Trabajos fin de máster
 
