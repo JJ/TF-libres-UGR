@@ -17,6 +17,7 @@ Repositorio con enlaces a los trabajos fin de grado, máster, carrera o tesis cu
 | [Ernesto Serrano Collado](https://github.com/erseco) | [Sergio Alonso Burgos](https://github.com/zerjillo) | [Análisis de plataforma de recursos de apoyo a la docencia Prado2](https://github.com/erseco/ugr_tfg) | Grado en Ingeniería Informática ||
 | [Antonio Álvarez Caballero](https://github.com/analca3) | [JJ Merelo](https://github.com/JJ) | [Estudio de optimización con incertidumbre en juegos de estrategia](https://github.com/analca3/TFG) | Doble Grado en Ingeniería Informática y Matemáticas | |
 | [Luis Gil Guijarro](https://github.com/LuisGi93/) | [JJ Merelo](https://github.com/JJ) | [Pradobot: bot de Telegram para Moodle](https://github.com/LuisGi93/pradobot) | Grado en Ingeniería Informática | |
+| [Mariano Palomo Villafranca](https://github.com/mpvillafranca) | José María Guirao Miras | [Hearcloud: a web application that lets you upload, store, organize, edit and play all of your music from the cloud](https://github.com/hearcloud/hearcloud-doc) | Grado en Ingeniería Informática | [Hearcloud](https://github.com/hearcloud/hearcloud) |
 
 ## Trabajos fin de máster
 
