@@ -18,6 +18,8 @@ Repositorio con enlaces a los trabajos fin de grado, máster, carrera o tesis cu
 | [Antonio Álvarez Caballero](https://github.com/analca3) | [JJ Merelo](https://github.com/JJ) | [Estudio de optimización con incertidumbre en juegos de estrategia](https://github.com/analca3/TFG) | Doble Grado en Ingeniería Informática y Matemáticas | |
 | [Luis Gil Guijarro](https://github.com/LuisGi93/) | [JJ Merelo](https://github.com/JJ) | [Pradobot: bot de Telegram para Moodle](https://github.com/LuisGi93/pradobot) | Grado en Ingeniería Informática | |
 | [Marco Fernandez Pranno](https://github.com/marco-fp) | [JJ Merelo](https://github.com/JJ) | [Synapse: Servicio de mensajeria privado y anonimo](https://github.com/SynapseMessenger) | Grado en Ingeniería Informática | |
+| [Mariano Palomo Villafranca](https://github.com/mpvillafranca) | José María Guirao Miras | [Hearcloud: a web application that lets you upload, store, organize, edit and play all of your music from the cloud](https://github.com/hearcloud/hearcloud-doc) | Grado en Ingeniería Informática | [Hearcloud](https://github.com/hearcloud/hearcloud) |
+
 
 ## Trabajos fin de máster
 
