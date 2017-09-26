@@ -19,7 +19,7 @@ Repositorio con enlaces a los trabajos fin de grado, máster, carrera o tesis cu
 | [Luis Gil Guijarro](https://github.com/LuisGi93/) | [JJ Merelo](https://github.com/JJ) | [Pradobot: bot de Telegram para Moodle](https://github.com/LuisGi93/pradobot) | Grado en Ingeniería Informática | |
 | [Marco Fernandez Pranno](https://github.com/marco-fp) | [JJ Merelo](https://github.com/JJ) | [Synapse: Servicio de mensajeria privado y anonimo](https://github.com/SynapseMessenger) | Grado en Ingeniería Informática | |
 | [Mariano Palomo Villafranca](https://github.com/mpvillafranca) | José María Guirao Miras | [Hearcloud: a web application that lets you upload, store, organize, edit and play all of your music from the cloud](https://github.com/hearcloud/hearcloud-doc) | Grado en Ingeniería Informática | [Hearcloud](https://github.com/hearcloud/hearcloud) |
-| [Francisco Carrillo Pérez](https://github.com/pacocp) | Luis Javier Herrera Maldonado y Alberto Guillén Perales | [DeepLearning para diagnóstico a partir de imágenes biomédicas](https://github.com/pacocp/Deep-Learning-para-diagnostico-a-partir-de-imagenes-Biomedicas) | Grado en Ingeniería Informática | |
+| [Francisco Carrillo Pérez](https://github.com/pacocp) | Luis Javier Herrera Maldonado y Alberto Guillén Perales | [Deep Learning para diagnóstico a partir de imágenes biomédicas](https://github.com/pacocp/Deep-Learning-para-diagnostico-a-partir-de-imagenes-Biomedicas) | Grado en Ingeniería Informática | |
 
 
 ## Trabajos fin de máster
