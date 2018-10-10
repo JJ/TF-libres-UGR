@@ -20,6 +20,7 @@ Repositorio con enlaces a los trabajos fin de grado, máster, carrera o tesis cu
 | [Marco Fernandez Pranno](https://github.com/marco-fp) | [JJ Merelo](https://github.com/JJ) | [Synapse: Servicio de mensajeria privado y anonimo](https://github.com/SynapseMessenger) | Grado en Ingeniería Informática | |
 | [Mariano Palomo Villafranca](https://github.com/mpvillafranca) | José María Guirao Miras | [Hearcloud: a web application that lets you upload, store, organize, edit and play all of your music from the cloud](https://github.com/hearcloud/hearcloud-doc) | Grado en Ingeniería Informática | [Hearcloud](https://github.com/hearcloud/hearcloud) |
 | [Francisco Carrillo Pérez](https://github.com/pacocp) | Luis Javier Herrera Maldonado y Alberto Guillén Perales | [Deep Learning para diagnóstico a partir de imágenes biomédicas](https://github.com/pacocp/Deep-Learning-para-diagnostico-a-partir-de-imagenes-Biomedicas) | Grado en Ingeniería Informática | |
+| [Francisco Javier Bolívar Lupiáñez](https://github.com/fblupi) | Francisco Javier Melero Rus | [Un visor 3D de TCs de esculturas](https://github.com/fblupi/grado_informatica-TFG) | Grado en Ingeniería Informática | [3DCurator](https://github.com/fblupi/3DCurator) |
 
 
 ## Trabajos fin de máster
@@ -28,6 +29,7 @@ Repositorio con enlaces a los trabajos fin de grado, máster, carrera o tesis cu
 | -------- | -------- | -------------- | -------| --------------------------------|
 | [Germán Martínez Maldonado](https://github.com/germaaan) | [JJ Merelo](https://github.com/JJ) | [Datos Abiertos en la Universidad](https://github.com/germaaan/ProyectoDatosAbiertos) | Máster Universitario en Ingeniería Informática | ||
 | [Antonio Álvarez Caballero](https://github.com/analca3) | [JJ Merelo](https://github.com/JJ) | [Predicción de resultados de partidas en juegos de estrategia en tiempo real](https://github.com/analca3/StarCraft-winner-prediction) | Máster Universitario en Ciencia de Datos e Ingeniería de Computadores | |
+| [Francisco Javier Bolívar Lupiáñez](https://github.com/fblupi) | Francisco Javier Melero Rus | [Sistema gráfico de ayuda al diagnóstico e intervención de esculturas mediante datos médicos volumétricos](https://github.com/fblupi/master_informatica-TFM) | Máster Universitario en Ingeniería Informática | [3DCurator](https://github.com/fblupi/3DCurator) |
 
 ## Tesis doctorales
 
