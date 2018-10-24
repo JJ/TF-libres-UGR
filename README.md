@@ -31,6 +31,7 @@ añádelo y haz un *pull request*.
 | [Adrián Morente Gabaldón](https://github.com/adrianmorente) | [JJ Merelo](https://github.com/JJ) | [Meta-Dynasystem](https://github.com/adrianmorente/meta-dynasystem) | Grado en Ingeniería Informática |
 | [Juan José Sierra González](https://github.com/JJSrra) | [Daniel Molina](https://github.com/dmolina) | [Socioinspired Algorithms](https://github.com/JJSrra/Research-SocioinspiredAlgorithms) | Grado en Ingeniería Informática |
 | [Guillermo Muriel Sánchez lafuente](https://github.com/guillesiesta) | [JJ Merelo](https://github.com/JJ) | [ProjectX](https://github.com/guillesiesta/ProjectX) | Grado en Ingeniería Informática |
+| [Laura Calle Caraballo](https://github.com/Laucalle) | [JJ Merelo](https://github.com/JJ) | [Procedural Content Generation in Computer Games](https://github.com/Laucalle/AngryBirdsLevelGenerationThesis) | Grado en Ingeniería Informática | [Angry Birds Level Generator](https://github.com/Laucalle/AngryBirdsLevelGenerator)
 
 ## Trabajos fin de máster
 
