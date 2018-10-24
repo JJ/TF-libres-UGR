@@ -29,6 +29,7 @@ añádelo y haz un *pull request*.
 | [Bartolomé Ortiz Viso](https://github.com/thebooort) | Óscar Sánchez  y Juanjo Nieto | [Análisis cualitativo de sistemas dinámicos con origen biológico](https://github.com/thebooort/Qualitative-Analysis-of-dinamical-system-with-biological-origin) | Grado en Matemáticas ||
 | [Sergio Cervilla Ortega](https://github.com/Cerv1) | [JJ Merelo](https://github.com/JJ) | [Chief, Apoyo a la labor de la Policía Local](https://github.com/Cerv1/Chief) | Grado en Ingeniería Informática |
 | [Adrián Morente Gabaldón](https://github.com/adrianmorente) | [JJ Merelo](https://github.com/JJ) | [Meta-Dynasystem](https://github.com/adrianmorente/meta-dynasystem) | Grado en Ingeniería Informática |
+| [Juan José Sierra González](https://github.com/JJSrra) | [Daniel Molina](https://github.com/dmolina) | [Socioinspired Algorithms](https://github.com/JJSrra/Research-SocioinspiredAlgorithms) | Grado en Ingeniería Informática |
 
 ## Trabajos fin de máster
 
