@@ -28,6 +28,7 @@ añádelo y haz un *pull request*.
 | [Francisco Javier Bolívar Lupiáñez](https://github.com/fblupi) | Francisco Javier Melero Rus | [Un visor 3D de TCs de esculturas](https://github.com/fblupi/grado_informatica-TFG) | Grado en Ingeniería Informática | [3DCurator](https://github.com/fblupi/3DCurator) |
 | [Bartolomé Ortiz Viso](https://github.com/thebooort) | Óscar Sánchez  y Juanjo Nieto | [Análisis cualitativo de sistemas dinámicos con origen biológico](https://github.com/thebooort/Qualitative-Analysis-of-dinamical-system-with-biological-origin) | Grado en Matemáticas ||
 | [Sergio Cervilla Ortega](https://github.com/Cerv1) | [JJ Merelo](https://github.com/JJ) | [Chief, Apoyo a la labor de la Policía Local](https://github.com/Cerv1/Chief) | Grado en Ingeniería Informática |
+| [Juan José Sierra González](https://github.com/JJSrra) | [Daniel Molina](https://github.com/dmolina) | [Socioinspired Algorithms](https://github.com/JJSrra/Research-SocioinspiredAlgorithms) | Grado en Ingeniería Informática ||
 
 ## Trabajos fin de máster
 
