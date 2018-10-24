@@ -1,6 +1,11 @@
 # Trabajos libres en la UGR
 
-Repositorio con enlaces a los trabajos fin de grado, máster, carrera o tesis cuyo contenido y código han sido liberados en la [Universidad de Granada](http://www.ugr.es). Para añadir el tuyo o alguno que hayas tutorizado, haz un *fork* de este repositorio, añádelo y haz un *pull request*.
+Repositorio con enlaces a los trabajos fin de grado, máster, carrera o
+tesis cuyo contenido y código han sido liberados en la
+[Universidad de Granada](http://www.ugr.es). Para añadir el tuyo como
+estudiante o
+alguno que hayas tutorizado como profesor, haz un *fork* de este repositorio,
+añádelo y haz un *pull request*.
 
 ## Trabajos fin de grado/carrera
 
