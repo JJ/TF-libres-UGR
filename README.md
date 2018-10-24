@@ -26,7 +26,7 @@ añádelo y haz un *pull request*.
 | [Mariano Palomo Villafranca](https://github.com/mpvillafranca) | José María Guirao Miras | [Hearcloud: a web application that lets you upload, store, organize, edit and play all of your music from the cloud](https://github.com/hearcloud/hearcloud-doc) | Grado en Ingeniería Informática | [Hearcloud](https://github.com/hearcloud/hearcloud) |
 | [Francisco Carrillo Pérez](https://github.com/pacocp) | Luis Javier Herrera Maldonado y Alberto Guillén Perales | [Deep Learning para diagnóstico a partir de imágenes biomédicas](https://github.com/pacocp/Deep-Learning-para-diagnostico-a-partir-de-imagenes-Biomedicas) | Grado en Ingeniería Informática | |
 | [Francisco Javier Bolívar Lupiáñez](https://github.com/fblupi) | Francisco Javier Melero Rus | [Un visor 3D de TCs de esculturas](https://github.com/fblupi/grado_informatica-TFG) | Grado en Ingeniería Informática | [3DCurator](https://github.com/fblupi/3DCurator) |
-
+| [Bartolomé Ortiz Viso](https://github.com/thebooort) | Óscar Sánchez  y Juanjo Nieto | [Análisis cualitativo de sistemas dinámicos con origen biológico](https://github.com/thebooort/Qualitative-Analysis-of-dinamical-system-with-biological-origin) | Grado en Matemáticas ||
 
 ## Trabajos fin de máster
 
@@ -35,7 +35,7 @@ añádelo y haz un *pull request*.
 | [Germán Martínez Maldonado](https://github.com/germaaan) | [JJ Merelo](https://github.com/JJ) | [Datos Abiertos en la Universidad](https://github.com/germaaan/ProyectoDatosAbiertos) | Máster Universitario en Ingeniería Informática | ||
 | [Antonio Álvarez Caballero](https://github.com/analca3) | [JJ Merelo](https://github.com/JJ) | [Predicción de resultados de partidas en juegos de estrategia en tiempo real](https://github.com/analca3/StarCraft-winner-prediction) | Máster Universitario en Ciencia de Datos e Ingeniería de Computadores | |
 | [Francisco Javier Bolívar Lupiáñez](https://github.com/fblupi) | Francisco Javier Melero Rus | [Sistema gráfico de ayuda al diagnóstico e intervención de esculturas mediante datos médicos volumétricos](https://github.com/fblupi/master_informatica-TFM) | Máster Universitario en Ingeniería Informática | [3DCurator](https://github.com/fblupi/3DCurator) |
-
+| [Bartolomé Ortiz Viso](https://github.com/thebooort) | Óscar Sánchez Romero  | [Nuevo modelo para el sistema de señalización de la proteína Shh](https://github.com/thebooort/shh-signal-model) | Máster Universitario en Física y Matemáticas | ||
 ## Tesis doctorales
 
 | Alumna/o | Tutora/o | Enlace al repo | Programa doctorado | Enlace al código (si diferente) |
