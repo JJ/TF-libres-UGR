@@ -26,6 +26,7 @@ añádelo y haz un *pull request*.
 | [Mariano Palomo Villafranca](https://github.com/mpvillafranca) | José María Guirao Miras | [Hearcloud: a web application that lets you upload, store, organize, edit and play all of your music from the cloud](https://github.com/hearcloud/hearcloud-doc) | Grado en Ingeniería Informática | [Hearcloud](https://github.com/hearcloud/hearcloud) |
 | [Francisco Carrillo Pérez](https://github.com/pacocp) | Luis Javier Herrera Maldonado y Alberto Guillén Perales | [Deep Learning para diagnóstico a partir de imágenes biomédicas](https://github.com/pacocp/Deep-Learning-para-diagnostico-a-partir-de-imagenes-Biomedicas) | Grado en Ingeniería Informática | |
 | [Francisco Javier Bolívar Lupiáñez](https://github.com/fblupi) | Francisco Javier Melero Rus | [Un visor 3D de TCs de esculturas](https://github.com/fblupi/grado_informatica-TFG) | Grado en Ingeniería Informática | [3DCurator](https://github.com/fblupi/3DCurator) |
+| [Sergio Cervilla Ortega](https://github.com/Cerv1) | [JJ Merelo](https://github.com/JJ) | [Chief, Apoyo a la labor de la Policía Local](https://github.com/Cerv1/Chief) | Grado en Ingeniería Informática |
 
 
 ## Trabajos fin de máster
