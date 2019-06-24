@@ -33,6 +33,7 @@ añádelo y haz un *pull request*.
 | [Guillermo Muriel Sánchez lafuente](https://github.com/guillesiesta) | [JJ Merelo](https://github.com/JJ) | [Gestión de juegos conversacionales](https://github.com/guillesiesta/ProjectX) | Grado en Ingeniería Informática |
 | [Laura Calle Caraballo](https://github.com/Laucalle) | [JJ Merelo](https://github.com/JJ) | [Procedural Content Generation in Computer Games](https://github.com/Laucalle/AngryBirdsLevelGenerationThesis) | Grado en Ingeniería Informática | [Angry Birds Level Generator](https://github.com/Laucalle/AngryBirdsLevelGenerator)
 | [Francisco Fernández Millán](https://github.com/franfermi) | [JJ Merelo](https://github.com/JJ) | [InformaticaUGR_Bot](https://github.com/franfermi/TFG-Servicio_Web) | Grado en Ingeniería Informática |
+| [Jaime Caso Onzain](https://github.com/jimcase) | [JJ Merelo](https://github.com/JJ) | [Personalized Diets System](https://github.com/Stance4Health-Dev/docs) | Grado en Ingeniería Informática |
 
 ## Trabajos fin de máster
 
