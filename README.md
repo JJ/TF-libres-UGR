@@ -34,6 +34,7 @@ añádelo y haz un *pull request*.
 | [Laura Calle Caraballo](https://github.com/Laucalle) | [JJ Merelo](https://github.com/JJ) | [Procedural Content Generation in Computer Games](https://github.com/Laucalle/AngryBirdsLevelGenerationThesis) | Grado en Ingeniería Informática | [Angry Birds Level Generator](https://github.com/Laucalle/AngryBirdsLevelGenerator)
 | [Francisco Fernández Millán](https://github.com/franfermi) | [JJ Merelo](https://github.com/JJ) | [InformaticaUGR_Bot](https://github.com/franfermi/TFG-Servicio_Web) | Grado en Ingeniería Informática |
 | [Jaime Caso Onzain](https://github.com/jimcase) | [JJ Merelo](https://github.com/JJ) | [Personalized Diets System](https://github.com/Stance4Health-Dev/docs) | Grado en Ingeniería Informática |
+| [Matilde Cabrera González](https://github.com/mati3) | Pedro Ángel Castillo Valdivieso  | [Desarrollo de una aplicación distribuida usando una red blockchain para la gestión y control de suministros de medicamentos​](https://github.com/mati3/Fabric-Medic) | Grado en Ingeniería Informática ||
 
 ## Trabajos fin de máster
 
