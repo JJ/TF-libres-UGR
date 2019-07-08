@@ -44,6 +44,7 @@ añádelo y haz un *pull request*.
 | [Antonio Álvarez Caballero](https://github.com/analca3) | [JJ Merelo](https://github.com/JJ) | [Predicción de resultados de partidas en juegos de estrategia en tiempo real](https://github.com/analca3/StarCraft-winner-prediction) | Máster Universitario en Ciencia de Datos e Ingeniería de Computadores | |
 | [Francisco Javier Bolívar Lupiáñez](https://github.com/fblupi) | Francisco Javier Melero Rus | [Sistema gráfico de ayuda al diagnóstico e intervención de esculturas mediante datos médicos volumétricos](https://github.com/fblupi/master_informatica-TFM) | Máster Universitario en Ingeniería Informática | [3DCurator](https://github.com/fblupi/3DCurator) |
 | [Bartolomé Ortiz Viso](https://github.com/thebooort) | Óscar Sánchez Romero  | [Nuevo modelo para el sistema de señalización de la proteína Shh](https://github.com/thebooort/shh-signal-model) | Máster Universitario en Física y Matemáticas | ||
+| [Ernesto Serrano Collado](https://github.com/erseco) | [Zoraida Callejas](https://github.com/zoraidacallejas) | [Autocorrección interactiva para la enseñanza/aprendizaje de la programación](https://github.com/erseco/ugr_tfm_maes) | Máster en Profesorado de Enseñanza Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas | [Sample Exercises](https://github.com/erseco/ugr_tfm_maes_sample_exercises) ||
 
 ## Tesis doctorales
 
