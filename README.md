@@ -45,6 +45,7 @@ añádelo y haz un *pull request*.
 | [Francisco Javier Bolívar Lupiáñez](https://github.com/fblupi) | Francisco Javier Melero Rus | [Sistema gráfico de ayuda al diagnóstico e intervención de esculturas mediante datos médicos volumétricos](https://github.com/fblupi/master_informatica-TFM) | Máster Universitario en Ingeniería Informática | [3DCurator](https://github.com/fblupi/3DCurator) |
 | [Bartolomé Ortiz Viso](https://github.com/thebooort) | Óscar Sánchez Romero  | [Nuevo modelo para el sistema de señalización de la proteína Shh](https://github.com/thebooort/shh-signal-model) | Máster Universitario en Física y Matemáticas | ||
 | [Ernesto Serrano Collado](https://github.com/erseco) | [Zoraida Callejas](https://github.com/zoraidacallejas) | [Autocorrección interactiva para la enseñanza/aprendizaje de la programación](https://github.com/erseco/ugr_tfm_maes) | Máster en Profesorado de Enseñanza Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanzas de Idiomas | [Sample Exercises](https://github.com/erseco/ugr_tfm_maes_sample_exercises) ||
+| [Ernesto Serrano Collado](https://github.com/erseco) | [JJ Merelo](https://github.com/JJ) | [Sistema de ciberdefensa dinámica basada en algoritmos evolutivos para la prevención de ataques informáticos](https://github.com/erseco/moving_target_defense) | Máster Profesional en Ingeniería Informática | ||
 
 ## Tesis doctorales
 
