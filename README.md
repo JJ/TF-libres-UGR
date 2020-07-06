@@ -39,6 +39,7 @@ añádelo y haz un *pull request*.
 | [Javier Galera Garrido](https://github.com/JotaGalera) | [JJ Merelo](https://github.com/JJ) | [Gestión de espacios](https://github.com/JotaGalera/TFG_Javier_Galera_Garrido) | Grado en Ingeniería Informatica ||
 | [Ángel Gómez Martín](https://github.com/harvestcore) | [JJ Merelo](https://github.com/JJ) | [Infraestructura bajo demanda](https://github.com/harvestcore/tfg) | Grado en Ingeniería Informatica ||
 | [Luis Liñán Villafranca](https://github.com/lulivi) | [JJ Merelo](https://github.com/JJ) | [DeepGProp](https://github.com/lulivi/deep-g-prop) | Grado en Ingeniería Informática ||
+| [Jesús Sánchez de Lechina Tejada](https://github.com/jojelupipa) | Manuel Pegalajar Cuéllar | [smart-plug](https://github.com/jojelupipa/smart-plug) | Grado en Ingeniería Informática ||
 
 
 ## Trabajos fin de máster
