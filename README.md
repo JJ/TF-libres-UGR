@@ -41,6 +41,7 @@ añádelo y haz un *pull request*.
 | [Luis Liñán Villafranca](https://github.com/lulivi) | [JJ Merelo](https://github.com/JJ) | [DeepGProp](https://github.com/lulivi/deep-g-prop) | Grado en Ingeniería Informática ||
 | [Jesús Sánchez de Lechina Tejada](https://github.com/jojelupipa) | Manuel Pegalajar Cuéllar | [smart-plug](https://github.com/jojelupipa/smart-plug) | Grado en Ingeniería Informática ||
 | [Víctor Moreno Jiménez](https://github.com/VictorMorenoJimenez/) | [JJ Merelo](https://github.com/JJ) | [Automatic infrastructure and application deployment IaC, CI, CD](https://github.com/VictorMorenoJimenez/tfg2020) | Grado en Ingeniería Informática ||
+| [Adrián Álvarez Sáez](https://github.com/adalsa91/) | [JJ Merelo](https://github.com/JJ) | [Sistema de bajo coste para detección de dispositivos WiFi y Bluetooth](https://github.com/adalsa91/tfg) | Grado en Ingeniería Informática ||
 
 
 ## Trabajos fin de máster
