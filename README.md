@@ -44,6 +44,7 @@ añádelo y haz un *pull request*.
 | [Adrián Álvarez Sáez](https://github.com/adalsa91/) | [JJ Merelo](https://github.com/JJ) | [Sistema de bajo coste para detección de dispositivos WiFi y Bluetooth](https://github.com/adalsa91/tfg) | Grado en Ingeniería Informática ||
 | [Antonio Coín Castro](https://github.com/antcc) | Margarita Arias, J.M. Benítez y Miguel Lastra | [Fuzzy systems for Big Data computing & Ordinary differential equations not solved for the derivative](https://github.com/antcc/tfg) | Doble Grado en Ingeniería Informática y Matemáticas | [fuzzyspark](https://github.com/antcc/fuzzyspark) |
 | [Luis Antonio Ortega Andrés](https://github.com/Ludvins) | Serafín Moral Callejón | [Statistical models with Variational methods](https://github.com/Ludvins/Statistical-Models-with-Variational-Methods) | Doble Grado en Ingeniería Informática y Matemáticas ||
+| [Vladislav Nikolov Vasilev](https://github.com/Vol0kin) | Juan Fernández Olivares | [Desarrollo de una arquitectura reactiva y deliberativa usando planificación en el entorno de juegos GVGAI](https://github.com/Vol0kin/TFG) | Grado en Ingeniería Informática | [gvgai-pddl](https://github.com/Vol0kin/gvgai-pddl) |
 
 ## Trabajos fin de máster
 
