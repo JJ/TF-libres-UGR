@@ -46,6 +46,7 @@ añádelo y haz un *pull request*.
 | [Luis Antonio Ortega Andrés](https://github.com/Ludvins) | Serafín Moral Callejón | [Statistical models with Variational methods](https://github.com/Ludvins/Statistical-Models-with-Variational-Methods) | Doble Grado en Ingeniería Informática y Matemáticas ||
 | [Vladislav Nikolov Vasilev](https://github.com/Vol0kin) | Juan Fernández Olivares | [Desarrollo de una arquitectura reactiva y deliberativa usando planificación en el entorno de juegos GVGAI](https://github.com/Vol0kin/TFG) | Grado en Ingeniería Informática | [gvgai-pddl](https://github.com/Vol0kin/gvgai-pddl) |
 | [Alejandro Menor Molinero](https://github.com/alexmenor) | [JJ Merelo](https://github.com/JJ) | [Héroes: Geolocalización para ayuda en emergencias](https://github.com/alexmenor/heroes) | Grado en Ingeniería Informática ||
+| [Jesús Miguel Jaldo Ruiz](https://github.com/JmZero) | [JJ Merelo](https://github.com/JJ) | [Covid-19 Reports: Visualización personalizada de datos del COVID-19](https://github.com/JmZero/TFG_Covid-19_reports) | Grado en Ingeniería Informática ||
 
 ## Trabajos fin de máster
 
