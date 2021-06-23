@@ -49,6 +49,7 @@ añádelo y haz un *pull request*.
 | [Jesús Miguel Jaldo Ruiz](https://github.com/JmZero) | [JJ Merelo](https://github.com/JJ) | [Covid-19 Reports: Visualización personalizada de datos del COVID-19](https://github.com/JmZero/TFG_Covid-19_reports) | Grado en Ingeniería Informática ||
 | [Carlos Cobos](https://github.com/kcobos) | Nicolás Marín y y [Alberto Guillén Perales](https://github.com/aguillenATC)  | [Localizador de Aparcamiento para Personas con Discapacidad](https://github.com/kcobos/SIGA) | Grado en Ingeniería Informática||
 | [Antonio Molner Domenech](https://github.com/antoniomdk/) | [Alberto Guillén Perales](https://github.com/aguillenATC) | [Diseño e implementación de ml-experiment: framework para MLOps. Aplicación a rayos cósmicos de ultra alta energía](https://github.com/SnapperML/SnapperML) | Grado en Ingeniería Informática || 
+| [David Carrasco Chicharro](https://github.com/DavidChicharro/) | Juan Manuel Fernández Luna y Sylvia Acid Carillo | [Herramienta web/móvil para informar sobre enventos de inseguridad ciudadana](https://github.com/DavidChicharro/Trabajo-Fin-Grado) | Grado en Ingeniería Informática || 
 
 ## Trabajos fin de máster
 
