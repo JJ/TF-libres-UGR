@@ -50,6 +50,8 @@ añádelo y haz un *pull request*.
 | [Carlos Cobos](https://github.com/kcobos) | Nicolás Marín y y [Alberto Guillén Perales](https://github.com/aguillenATC)  | [Localizador de Aparcamiento para Personas con Discapacidad](https://github.com/kcobos/SIGA) | Grado en Ingeniería Informática||
 | [Antonio Molner Domenech](https://github.com/antoniomdk/) | [Alberto Guillén Perales](https://github.com/aguillenATC) | [Diseño e implementación de ml-experiment: framework para MLOps. Aplicación a rayos cósmicos de ultra alta energía](https://github.com/SnapperML/SnapperML) | Grado en Ingeniería Informática || 
 | [David Carrasco Chicharro](https://github.com/DavidChicharro/) | Juan Manuel Fernández Luna y Sylvia Acid Carillo | [Herramienta web/móvil para informar sobre eventos de inseguridad ciudadana](https://github.com/DavidChicharro/Trabajo-Fin-Grado) | Grado en Ingeniería Informática || 
+| [Antonio David Villegas Yeguas](https://github.com/advy99/) | Óscar Cordón García y Sergio Damas Arroyo | [Aprendizaje automático de un sistema interpretable de ayuda a la decisión para la estimación de la edad a partir de los huesos del pubis](https://github.com/advy99/TFG) | Grado en Ingeniería Informática | [algoritmos_poblacion_expresiones](https://github.com/advy99/algoritmos_poblacion_expresiones/) | 
+
 
 ## Trabajos fin de máster
 
