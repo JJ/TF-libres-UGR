@@ -53,6 +53,7 @@ añádelo y haz un *pull request*.
 | [David Carrasco Chicharro](https://github.com/DavidChicharro/) | Juan Manuel Fernández Luna y Sylvia Acid Carillo | [Herramienta web/móvil para informar sobre eventos de inseguridad ciudadana](https://github.com/DavidChicharro/Trabajo-Fin-Grado) | Grado en Ingeniería Informática || 
 | [Antonio David Villegas Yeguas](https://github.com/advy99/) | Óscar Cordón García y Sergio Damas Arroyo | [Aprendizaje automático de un sistema interpretable de ayuda a la decisión para la estimación de la edad a partir de los huesos del pubis](https://github.com/advy99/TFG) | Grado en Ingeniería Informática | [algoritmos_poblacion_expresiones](https://github.com/advy99/algoritmos_poblacion_expresiones/) | 
 | [Juan Carlos González Quesada](https://github.com/jcgq) | Francisco Javier Cabrerizo Lorite | [Sistema de ayuda a la decisión en grupo basado en el paradigma de computación granular](https://github.com/jcgq/TFG) | Grado en Ingeniería Informática ||
+| [José Miguel Pelegrina Pelegrina](https://github.com/josemip98) | [JJ Merelo](https://github.com/JJ) | [Generación de dietas optimizadas con fines concretos](https://github.com/josemip98/TFG) | Grado en Ingeniería Informática ||
 
 
 ## Trabajos fin de máster
