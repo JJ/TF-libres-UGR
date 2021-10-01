@@ -55,6 +55,7 @@ añádelo y haz un *pull request*.
 | [Juan Carlos González Quesada](https://github.com/jcgq) | Francisco Javier Cabrerizo Lorite | [Sistema de ayuda a la decisión en grupo basado en el paradigma de computación granular](https://github.com/jcgq/TFG) | Grado en Ingeniería Informática ||
 | [José Miguel Pelegrina Pelegrina](https://github.com/josemip98) | [JJ Merelo](https://github.com/JJ) | [Generación de dietas optimizadas con fines concretos](https://github.com/josemip98/TFG) | Grado en Ingeniería Informática ||
 | [Francisco Javier Sáez Maldonado](https://github.com/fjsaezm) | Nicolás Pérez de la Blanca | [Información mutua en aprendizaje de representaciones](https://github.com/fjsaezm/Mutual-Information-in-Unsupervised-Machine-Learning) | Doble Grado en Ingeniería Informática y Matemáticas ||
+| [Jose Luis Gallego Peña](https://github.com/jlgallego99/) | Jose Luis Garrido Bullejos y María Bermúdez Edo | [Servicio de descubrimiento para entornos IoT](https://github.com/jlgallego99/TFG) | Grado en Ingeniería Informática || 
 
 
 
