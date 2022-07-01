@@ -56,7 +56,8 @@ añádelo y haz un *pull request*.
 | [José Miguel Pelegrina Pelegrina](https://github.com/josemip98) | [JJ Merelo](https://github.com/JJ) | [Generación de dietas optimizadas con fines concretos](https://github.com/josemip98/TFG) | Grado en Ingeniería Informática ||
 | [Francisco Javier Sáez Maldonado](https://github.com/fjsaezm) | Nicolás Pérez de la Blanca | [Información mutua en aprendizaje de representaciones](https://github.com/fjsaezm/Mutual-Information-in-Unsupervised-Machine-Learning) | Doble Grado en Ingeniería Informática y Matemáticas ||
 | [Jose Luis Gallego Peña](https://github.com/jlgallego99/) | Jose Luis Garrido Bullejos y María Bermúdez Edo | [Servicio de descubrimiento para entornos IoT](https://github.com/jlgallego99/TFG) | Grado en Ingeniería Informática || 
-| [Bate Ye](https://github.com/WolfYe98) | [Antonio Cañas Vargas](https://github.com/acanas) | [iSWAD: iOS aplication for SWAD platform](https://github.com/WolfYe98/iSWAD) | Grado en Ingeniería Informática ||
+| [Bate Ye](https://github.com/WolfYe98) | [Antonio Cañas Vargas](https://github.com/acanas) | [iSWAD: iOS aplication for SWAD platform](https://github.com/WolfYe98/iSWAD) | Grado en Ingeniería Informática ||  
+| [Blanca Cano Camarero](https://github.com/BlancaCC) | [JJ Merelo](https://github.com/JJ) y Francisco Javier Merí de la Maza| [Optimización de redes neuronales](https://github.com/BlancaCC/TFG-Estudio-de-las-redes-neuronales) | Doble Grado en Ingeniería Informática y Matemáticas ||
 
 
 ## Trabajos fin de máster
