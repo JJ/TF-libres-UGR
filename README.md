@@ -61,6 +61,7 @@ añádelo y haz un *pull request*.
 | [Andrés Millán Muñoz](https://github.com/Asmilex) | Carlos Ureña Almagro y María del Carmen Segovia García| [Métodos de Monte Carlo para síntesis de imágenes. Análisis teórico e implementaciones basadas en path tracing acelerado por hardware](https://github.com/asmilex/Raytracing/) | Doble Grado en Ingeniería Informática y Matemáticas ||
 | [Pablo Jiménez Jiménez](https://github.com/pablojjimenez) | [JJ Merelo](https://github.com/JJ) | [Computación y optimización en la nube. Implementación de aplicaciones de datos abiertos en la nube](https://github.com/pablojjimenez/TFG) | Grado en Ingeniería Informática ||  
 | [Juan Antonio Villegas Recio](https://github.com/JAntonioVR) | Manuel Ruiz Galán y [Carlos Ureña Almagro](https://github.com/carlos-urena) | [Fractales. Fundamentos Matemáticos y Visualización con Ray-Tracing](https://github.com/JAntonioVR/Geometria-Fractal) | Doble Grado en Ingeniería Informática y Matemáticas | [jantoniovr.github.io/Geometria-Fractal](https://jantoniovr.github.io/Geometria-Fractal/) |
+| [Sergio García Cabrera](https://github.com/Olasergiolas) | Gustavo Romero López | [Introducción al Fuzzing, uso y estrategias de Fuzzing para encontrar vulnerabilidades en dispositivos IoT](https://github.com/Olasergiolas/TFG) | Grado en Ingeniería Informática | |
 
 
 ## Trabajos fin de máster
