@@ -63,7 +63,7 @@ añádelo y haz un *pull request*.
 | [Juan Antonio Villegas Recio](https://github.com/JAntonioVR) | Manuel Ruiz Galán y [Carlos Ureña Almagro](https://github.com/carlos-urena) | [Fractales. Fundamentos Matemáticos y Visualización con Ray-Tracing](https://github.com/JAntonioVR/Geometria-Fractal) | Doble Grado en Ingeniería Informática y Matemáticas | [jantoniovr.github.io/Geometria-Fractal](https://jantoniovr.github.io/Geometria-Fractal/) |
 | [Sergio García Cabrera](https://github.com/Olasergiolas) | Gustavo Romero López | [Introducción al Fuzzing, uso y estrategias de Fuzzing para encontrar vulnerabilidades en dispositivos IoT](https://github.com/Olasergiolas/TFG) | Grado en Ingeniería Informática | |
 | [Miguel Pedregosa Pérez](https://github.com/mipdr) | [Miguel Molina Solana](https://github.com/miguems) y [José López Montes](https://github.com/lopezmontes) | [Contribuciones a GenoMus: Rediseño de un motor de cómputo funcional sobre estructuras musicales](https://github.com/mipdr/TFG-genomus-core) | Grado en Ingeniería Informática | [genomus-core](https://github.com/mipdr/genomus-core)|
-
+| [Antonio Priego Raya](https://github.com/AntonioPriego) | Jesús González Peñalver | [Dispositivo para detección de escritura mediante Deep Learning en un sistema empotrado - SmartPen](https://github.com/AntonioPriego/SmartPen) | Grado en Ingeniería Informática ||  
 
 ## Trabajos fin de máster
 
