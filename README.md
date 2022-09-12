@@ -65,6 +65,7 @@ añádelo y haz un *pull request*.
 | [Sergio García Cabrera](https://github.com/Olasergiolas) | Gustavo Romero López | [Introducción al Fuzzing, uso y estrategias de Fuzzing para encontrar vulnerabilidades en dispositivos IoT](https://github.com/Olasergiolas/TFG) | Grado en Ingeniería Informática | |
 | [Miguel Pedregosa Pérez](https://github.com/mipdr) | [Miguel Molina Solana](https://github.com/miguems) y [José López Montes](https://github.com/lopezmontes) | [Contribuciones a GenoMus: Rediseño de un motor de cómputo funcional sobre estructuras musicales](https://github.com/mipdr/TFG-genomus-core) | Grado en Ingeniería Informática | [genomus-core](https://github.com/mipdr/genomus-core)|
 | [Antonio Priego Raya](https://github.com/AntonioPriego) | Jesús González Peñalver | [Dispositivo para detección de escritura mediante Deep Learning en un sistema empotrado - SmartPen](https://github.com/AntonioPriego/SmartPen) | Grado en Ingeniería Informática ||  
+| [José Luis Amador Moreno](https://jlxip.net) | José Luis Garrido Bullejos y Carlos Rodríguez Domínguez | [Desarrollo de un sistema operativo basado en arquitectura microkernel con un modelo de protección de grano fino](https://github.com/jlxip/TFG) | Grado en Ingeniería Informática | [The Strife Project](https://github.com/the-strife-project) |
 
 ## Trabajos fin de máster
 
