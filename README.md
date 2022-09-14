@@ -67,6 +67,7 @@ añádelo y haz un *pull request*.
 | [Antonio Priego Raya](https://github.com/AntonioPriego) | Jesús González Peñalver | [Dispositivo para detección de escritura mediante Deep Learning en un sistema empotrado - SmartPen](https://github.com/AntonioPriego/SmartPen) | Grado en Ingeniería Informática ||  
 | [José Luis Amador Moreno](https://jlxip.net) | José Luis Garrido Bullejos y Carlos Rodríguez Domínguez | [Desarrollo de un sistema operativo basado en arquitectura microkernel con un modelo de protección de grano fino](https://github.com/jlxip/TFG) | Grado en Ingeniería Informática | [The Strife Project](https://github.com/the-strife-project) ||
 | [Víctor Cabrita Gómez](https://github.com/Torchu) | [Juan Julián Merelo Guervós](http://github.com/JJ) | [Flixbuff, la red social para seriéfilos](https://github.com/Torchu/flixbuff) | Grado en Ingeniería Informática |
+| [Francisco Javier Bolívar Expósito](https://github.com/dipzza/) | [Juan Julián Merelo Guervós](http://github.com/JJ) | [Adaptación automática de canciones para juegos de karaoke](https://github.com/dipzza/ultrastar-song2txt) | Grado en Ingeniería Informática |
 
 ## Trabajos fin de máster
 
