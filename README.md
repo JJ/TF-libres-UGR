@@ -68,6 +68,8 @@ añádelo y haz un *pull request*.
 | [José Luis Amador Moreno](https://jlxip.net) | José Luis Garrido Bullejos y Carlos Rodríguez Domínguez | [Desarrollo de un sistema operativo basado en arquitectura microkernel con un modelo de protección de grano fino](https://github.com/jlxip/TFG) | Grado en Ingeniería Informática | [The Strife Project](https://github.com/the-strife-project) ||
 | [Víctor Cabrita Gómez](https://github.com/Torchu) | [Juan Julián Merelo Guervós](http://github.com/JJ) | [Flixbuff, la red social para seriéfilos](https://github.com/Torchu/flixbuff) | Grado en Ingeniería Informática |
 | [Francisco Javier Bolívar Expósito](https://github.com/dipzza/) | [Juan Julián Merelo Guervós](http://github.com/JJ) | [Adaptación automática de canciones para juegos de karaoke](https://github.com/dipzza/ultrastar-song2txt) | Grado en Ingeniería Informática |
+| [Pilar Navarro Ramírez](https://github.com/pilarnavarro) | Francisco Herrera Triguero Y Julián Luengo Martín | [Segmentation of prostate
+cancer in T2W MRI images using deep learning models](https://github.com/pilarnavarro/AutoPCaSeg) | Grado en Ingeniería Informática y Matemáticas |
 
 ## Trabajos fin de máster
 
