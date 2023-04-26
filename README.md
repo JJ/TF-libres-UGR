@@ -69,7 +69,6 @@ añádelo y haz un *pull request*.
 | [Víctor Cabrita Gómez](https://github.com/Torchu) | [Juan Julián Merelo Guervós](http://github.com/JJ) | [Flixbuff, la red social para seriéfilos](https://github.com/Torchu/flixbuff) | Grado en Ingeniería Informática |
 | [Francisco Javier Bolívar Expósito](https://github.com/dipzza/) | [Juan Julián Merelo Guervós](http://github.com/JJ) | [Adaptación automática de canciones para juegos de karaoke](https://github.com/dipzza/ultrastar-song2txt) | Grado en Ingeniería Informática |
 | [Pilar Navarro Ramírez](https://github.com/pilarnavarro) | Francisco Herrera Triguero Y Julián Luengo Martín | [Segmentation of prostate cancer in T2W MRI images using deep learning models](https://github.com/pilarnavarro/AutoPCaSeg) | Grado en Ingeniería Informática y Matemáticas |
-
 | [Francisco Vázquez Escobar](https://github.com/vazquezpaco98) | Miguel Delgado Calvo Flores | [Repercusión de los desarrollos Turing y Gödel en Informática y Matemáticas.](https://github.com/vazquezpaco98/Trabajo-Fin-de-Grado) | Grado en Ingeniería Informática y Matemáticas |
 
 ## Trabajos fin de máster
