@@ -84,6 +84,7 @@ añádelo y haz un *pull request*.
 | [Juan José Sierra González](https://github.com/JJSrra) | Juan Manuel Fernández Luna | [Group Recommenders For Movies](https://github.com/JJSrra/Research-GroupRecommendersForMovies) | Máster Universitario en Ciencia de Datos e Ingeniería de Computadores | ||
 | [Abdullah AL Musawi](https://github.com/AbdullahTaher93) | [JJ Merelo](https://github.com/JJ) | [Cryptanalysis Ciphertext Based On Genetic Algorithms](https://github.com/AbdullahTaher93/TFM) | Máster Universitario en Ingeniería Informática | ||
 | [Daniel Redondo Sánchez](https://github.com/danielredondo) | [Daniel Castillo Secilla](https://github.com/CasedUgr) y Luis Javier Herrera Maldonado | [Epidemiología y detección de biomarcadores en cáncer](https://github.com/danielredondo/TFM_ciencia_de_datos) | Máster Universitario en Ciencia de Datos e Ingeniería de Computadores | ||
+| [Ángel Píñar Rivas](https://github.com/Anglepi) | [JJ Merelo](https://github.com/JJ) | [My Many Reads](https://github.com/Anglepi/My-Many-Reads) | Máster Universitario en Ingeniería Informática | ||
 
 ## Tesis doctorales
 
