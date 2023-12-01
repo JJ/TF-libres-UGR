@@ -72,6 +72,7 @@ añádelo y haz un *pull request*.
 | [Francisco Vázquez Escobar](https://github.com/vazquezpaco98) | Miguel Delgado Calvo Flores | [Repercusión de los desarrollos Turing y Gödel en Informática y Matemáticas.](https://github.com/vazquezpaco98/Trabajo-Fin-de-Grado) | Grado en Ingeniería Informática y Matemáticas |
 | [Daniel Bolaños Martínez](https://github.com/danibolanos/) | Jorge Casillas Barranquero y Pedro González Rodelas | [Herramientas para garantizar justicia en aprendizaje automático](https://github.com/danibolanos/TFG-Ensuring_Fairness_in_ML) | Doble Grado en Ingeniería Informática y Matemáticas |
 | [Sergio Gasquez Arcos](https://github.com/SergioGasquez) | Miguel Ángel Carvajal Rodríguez | [Desarrollo de una trajeta de adquisición basada en Arduino](https://github.com/SergioGasquez/daq) | Grado en Ingeniería de Tecnologías de Telecomunicación |
+| [Jerónimo Chaves Caballero](https://github.com/jero-dev) | [Juan Julián Merelo Guervós](https://github.com/JJ) | [Gestión de ofertas publicadas en canales de Discord y Telegram](https://github.com/jero-dev/proyecto-tfg) | Grado en Ingeniería Informática |
 
 ## Trabajos fin de máster
 
