@@ -11,6 +11,7 @@ añádelo y haz un *pull request*.
 
 | Alumna/o | Tutora/o | Enlace al repo | Grado | Enlace al código (si diferente) |
 | -------- | -------- | -------------- | ------| --------------------------------|
+| [Francisco Vázquez Escobar](https://github.com/vazquezpaco98) | [Miguel Delgado Flores]() y Úrsula Torres Parejo | [Repercusión de los trabajos de Alan Turing y Kurt Gödel en Informática y Matemáticas](https://github.com/vazquezpaco98/Trabajo-Fin-de-Grado) | Doble Grado en Ingeniería Informática y Matemáticas||
 | [Elena Merelo Molina](https://github.com/ElenaMerelo) | [Juan Julián Merelo](https://github.com/JJ) y Úrsula Torres Parejo | [Análisis de redes causales en deportes de equipo](https://github.com/ElenaMerelo/TFG) | Doble Grado en Ingeniería Informática y Matemáticas||
 | [Alejandro García Montoro](https://github.com/agarciamontoro) | Alfonso Romero Sarabia y [Pablo Galindo Salgado](https://github.com/pablogsal) | [General Relativity Raytracer](https://github.com/agarciamontoro/TFG) | Doble Grado en Ingeniería Informática y Matemáticas | [kerrpy](https://github.com/kerrpy) |
 | [David Gasquez Arcos](https://github.com/davidgasquez) | Francisco Herrera Triguero | [Airbnb Kaggle](https://github.com/davidgasquez/kaggle-airbnb) | Grado en Ingeniería Informática ||
