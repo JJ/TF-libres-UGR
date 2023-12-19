@@ -70,8 +70,11 @@ añádelo y haz un *pull request*.
 | [Víctor Cabrita Gómez](https://github.com/Torchu) | [Juan Julián Merelo Guervós](http://github.com/JJ) | [Flixbuff, la red social para seriéfilos](https://github.com/Torchu/flixbuff) | Grado en Ingeniería Informática |
 | [Francisco Javier Bolívar Expósito](https://github.com/dipzza/) | [Juan Julián Merelo Guervós](http://github.com/JJ) | [Adaptación automática de canciones para juegos de karaoke](https://github.com/dipzza/ultrastar-song2txt) | Grado en Ingeniería Informática |
 | [Pilar Navarro Ramírez](https://github.com/pilarnavarro) | Francisco Herrera Triguero Y Julián Luengo Martín | [Segmentation of prostate cancer in T2W MRI images using deep learning models](https://github.com/pilarnavarro/AutoPCaSeg) | Grado en Ingeniería Informática y Matemáticas |
-
 | [Francisco Vázquez Escobar](https://github.com/vazquezpaco98) | Miguel Delgado Calvo Flores | [Repercusión de los desarrollos Turing y Gödel en Informática y Matemáticas.](https://github.com/vazquezpaco98/Trabajo-Fin-de-Grado) | Grado en Ingeniería Informática y Matemáticas |
+| [Daniel Bolaños Martínez](https://github.com/danibolanos/) | Jorge Casillas Barranquero y Pedro González Rodelas | [Herramientas para garantizar justicia en aprendizaje automático](https://github.com/danibolanos/TFG-Ensuring_Fairness_in_ML) | Doble Grado en Ingeniería Informática y Matemáticas |
+| [Sergio Gasquez Arcos](https://github.com/SergioGasquez) | Miguel Ángel Carvajal Rodríguez | [Desarrollo de una trajeta de adquisición basada en Arduino](https://github.com/SergioGasquez/daq) | Grado en Ingeniería de Tecnologías de Telecomunicación |
+| [Jerónimo Chaves Caballero](https://github.com/jero-dev) | [Juan Julián Merelo Guervós](https://github.com/JJ) | [Gestión de ofertas publicadas en canales de Discord y Telegram](https://github.com/jero-dev/proyecto-tfg) | Grado en Ingeniería Informática |
+| [Alejandro Olivares del Rey Pierres](https://github.com/Slowmybrosh) | [JJ Merelo](https://github.com/JJ) | [Desarrollo de una aplicación de recetas](https://github.com/Slowmybrosh/TFG-DietPlanner) | Grado en Ingeniería de Tecnologías de Telecomunicación |
 
 ## Trabajos fin de máster
 
@@ -86,6 +89,8 @@ añádelo y haz un *pull request*.
 | [Juan José Sierra González](https://github.com/JJSrra) | Juan Manuel Fernández Luna | [Group Recommenders For Movies](https://github.com/JJSrra/Research-GroupRecommendersForMovies) | Máster Universitario en Ciencia de Datos e Ingeniería de Computadores | ||
 | [Abdullah AL Musawi](https://github.com/AbdullahTaher93) | [JJ Merelo](https://github.com/JJ) | [Cryptanalysis Ciphertext Based On Genetic Algorithms](https://github.com/AbdullahTaher93/TFM) | Máster Universitario en Ingeniería Informática | ||
 | [Daniel Redondo Sánchez](https://github.com/danielredondo) | [Daniel Castillo Secilla](https://github.com/CasedUgr) y Luis Javier Herrera Maldonado | [Epidemiología y detección de biomarcadores en cáncer](https://github.com/danielredondo/TFM_ciencia_de_datos) | Máster Universitario en Ciencia de Datos e Ingeniería de Computadores | ||
+| [Ángel Píñar Rivas](https://github.com/Anglepi) | [JJ Merelo](https://github.com/JJ) | [My Many Reads](https://github.com/Anglepi/My-Many-Reads) | Máster Universitario en Ingeniería Informática | ||
+| [Jose Luis Gallego Peña](https://github.com/jlgallego99) | [JJ Merelo](https://github.com/JJ) | [TropesToGo](https://github.com/jlgallego99/TropesToGo) | Máster Universitario en Ingeniería Informática | ||
 
 ## Tesis doctorales
 
