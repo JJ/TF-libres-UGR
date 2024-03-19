@@ -74,6 +74,7 @@ añádelo y haz un *pull request*.
 | [Sergio Gasquez Arcos](https://github.com/SergioGasquez) | Miguel Ángel Carvajal Rodríguez | [Desarrollo de una trajeta de adquisición basada en Arduino](https://github.com/SergioGasquez/daq) | Grado en Ingeniería de Tecnologías de Telecomunicación |
 | [Jerónimo Chaves Caballero](https://github.com/jero-dev) | [Juan Julián Merelo Guervós](https://github.com/JJ) | [Gestión de ofertas publicadas en canales de Discord y Telegram](https://github.com/jero-dev/proyecto-tfg) | Grado en Ingeniería Informática |
 | [Alejandro Olivares del Rey Pierres](https://github.com/Slowmybrosh) | [JJ Merelo](https://github.com/JJ) | [Desarrollo de una aplicación de recetas](https://github.com/Slowmybrosh/TFG-DietPlanner) | Grado en Ingeniería de Tecnologías de Telecomunicación |
+| [Miguel Ángel Martín Rodríguez](https://github.com/migueorg) | [JJ Merelo](https://github.com/JJ) | [Sistema de streaming por contacto usando dispositivos de bajo coste](https://github.com/migueorg/One-touch-music-streaming-TFG-ETSIIT) | Grado en Ingeniería Informática |
 
 ## Trabajos fin de máster
 
